@@ -1,6 +1,7 @@
 # test_demo_new
 Menu
 
--beans
--rice
--salsa
+- Black beans
+- rice
+- salsa
+- pinto beans
