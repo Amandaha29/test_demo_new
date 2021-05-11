@@ -1,6 +1,7 @@
 # Price list
 
-* beans: 3.50
 * salsa: 1.50
-* rice: 8.00
+* beans: 3.50
+* rice: 6.00
+* sofritas: 8.00
 * quesadillas: 12.00
